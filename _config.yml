@@ -10,21 +10,19 @@
 ############################
 
 # Name of website
-title: My Website
+title: The Theoretical Minimum
 
 # Your name to show in the footer
-author: Some Person
+author: DLG, Sarah Heyrman, Demi Lei, Daniel Elliott
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About The Theoretical Minimum: "aboutme"
+  Glossary: "glossary"
+  Works Cited: "workscited"
 
 ################
 # --- Logo --- #
@@ -49,13 +47,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "dlloydgeorge20@gmail.com, elliott.daniel.ballantyne@gmail.com, demilei221@gmail.com, grace.heyrman@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+# facebook: deanattali
+  github: dan-3lliott
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -94,7 +92,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "dan-3lliott.github.io/theoreticalminimum"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -117,7 +115,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "quantumcomputing, georgiatech, gatech"
 
 ######################################
 # --- Colours / background image --- #
