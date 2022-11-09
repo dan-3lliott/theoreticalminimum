@@ -3,7 +3,7 @@ layout: post
 title: Qurrent Limitations of Quantum Computing
 subtitle: By Daniel Elliott
 cover-img: /assets/img/chipwide.jpg
-thumbnail-img: /assets/img/chipthumb.png
+thumbnail-img: /assets/img/chipthumb.jpg
 share-img: /assets/img/atomcomputing.jpg
 ---
 
