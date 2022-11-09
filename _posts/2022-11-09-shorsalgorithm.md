@@ -9,8 +9,7 @@ share-img: /assets/img/path.jpg
 
 Who is Peter Shor?
 
-Peter Shor is a professor of applied mathematics at MIT. He specializes in theoretical computer science: algorithms, computational geometry, combinatorics, and probability theory.
-Shor’s current research is in quantum computing and quantum information theory. He is best known for his 1994 discovery of Shor’s algorithm, a quantum algorithm for prime factorization and discrete logarithms (Shor, “Peter Shor”). 
+Peter Shor is a professor of applied mathematics at MIT. He specializes in theoretical computer science: algorithms, computational geometry, combinatorics, and probability theory.Shor’s current research is in quantum computing and quantum information theory. He is best known for his 1994 discovery of Shor’s algorithm, a quantum algorithm for prime factorization and discrete logarithms (Shor, “Peter Shor”). 
 
 How Shor’s algorithm came to be
 
