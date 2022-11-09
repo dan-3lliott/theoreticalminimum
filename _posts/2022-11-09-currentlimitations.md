@@ -2,9 +2,9 @@
 layout: post
 title: Qurrent Limitations of Quantum Computing
 subtitle: By Daniel Elliott
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/chipwide.jpg
+thumbnail-img: /assets/img/chipthumb.png
+share-img: /assets/img/atomcomputing.jpg
 ---
 
 For many, the words “quantum computing” immediately evoke a mental image of sci-fi-esque circuitry, perhaps arranged in a radially symmetric fashion amongst several circular levels, being silhouetted against a black background with purple, blue, and orange highlights streaking throughout its many complex subsystems… such is the effect of the sensationalism which currently surrounds the quantum computing industry as a whole. Chances are, you’ve probably seen headlines such as “The Quantum Age Is Almost Upon Us and We Need to Start Taking It Seriously,” “How Quantum Computing Could Change The World,” or even “Why Quantum Computing Is Even More Dangerous Than Artificial Intelligence,” and you’ve likely wondered if there is any basis for such zealous claims. Truthfully, though some of the prospective technologies currently being developed in this domain do in fact have potential to revolutionize certain aspects of computing, there are still many significant limitations of application and progression which those working to develop such technologies must either embrace or overcome. This article will provide a high-level overview of the most significant challenges and limitations which researchers and scientists in the field of quantum computing face at present.
