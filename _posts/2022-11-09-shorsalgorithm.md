@@ -2,9 +2,9 @@
 layout: post
 title: A Brief History of Shor's Algorithm
 subtitle: By Sarah Heyrman
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/pic2.jpg
+thumbnail-img: /assets/img/pic2.jpg
+share-img: /assets/img/shoralg.png
 ---
 
 Who is Peter Shor?
