@@ -23,10 +23,13 @@ A few days after giving a talk about discrete logs, he solved the factoring prob
 **Why does Shor’s algorithm matter?**
 <ul>
 Shor’s algorithm could break the RSA cryptosystem (The Jupyter Book Community). RSA is commonly used for banking, online shopping, authenticating messages, and many other important tasks (“RSA Encryption: Definition”). 
-
+</ul>
+<ul>
 The algorithm relies on the fact that large integers are very difficult to factorize, yet easy to multiply (“RSA Encryption”). As an asymmetric cryptography algorithm, RSA uses two keys, one public (given to everyone) and one private. The public key is created by multiplying two large prime numbers. The same prime numbers are used to generate the private key.  The strength of encryption scales exponentially with the key size (“RSA Algorithm in Cryptography”). The general process is simple: a client requests data from a server, the server encrypts the data with the client’s public key and sends it back, then the client receives the data and decrypts it with their private key (Educative Answers Team). 
-
+</ul>
+<ul>
 This cryptosystem can be hacked in a few ways: factoring, brute force attacks, the Euclidean algorithm, or hardware manipulation (RSA Encryption). On a large enough quantum computer (around 4000 error-corrected qubits), Shor’s algorithm could factor any public key to find the private key and access the encrypted data (Herman). 
-
+</ul>
+<ul>
 The current largest quantum processor is the IBM Eagle, with 127 qubits, meaning RSA is safe for now (Chow et al.). At the rate quantum technology is evolving, however, RSA will need to be replaced in the near future. The new cryptosystem needs to be quantum-proof, accessible, and widely implemented when that time comes– at the moment, there is no obvious replacement. If this problem is neglected, RSA-encrypted information such as passwords, financial details, and emails could become vulnerable to attack, leading to a cybersecurity crisis that would affect nearly everyone (Herman). 
 </ul>
