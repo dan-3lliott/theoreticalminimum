@@ -22,7 +22,7 @@ A few days after giving a talk about discrete logs, he solved the factoring prob
 
 Why does Shor’s algorithm matter?
 <ul>
-**Shor’s algorithm could break the RSA cryptosystem** (The Jupyter Book Community). RSA is commonly used for banking, online shopping, authenticating messages, and many other important tasks (“RSA Encryption: Definition”). 
+Shor’s algorithm could break the RSA cryptosystem (The Jupyter Book Community). RSA is commonly used for banking, online shopping, authenticating messages, and many other important tasks (“RSA Encryption: Definition”). 
 
 The algorithm relies on the fact that large integers are very difficult to factorize, yet easy to multiply (“RSA Encryption”). As an asymmetric cryptography algorithm, RSA uses two keys, one public (given to everyone) and one private. The public key is created by multiplying two large prime numbers. The same prime numbers are used to generate the private key.  The strength of encryption scales exponentially with the key size (“RSA Algorithm in Cryptography”). The general process is simple: a client requests data from a server, the server encrypts the data with the client’s public key and sends it back, then the client receives the data and decrypts it with their private key (Educative Answers Team). 
 
