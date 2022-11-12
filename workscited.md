@@ -2,14 +2,14 @@
 ## Works Cited
 
 Ago, Artba07965in #science • 5 Years. “50-Qubit Quantum Computer IBM.” Steemit, 22
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Jan. 2018, https://steemit.com/science/@artba07965/50-qubit
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Jan. 2018, https://steemit.com/science/@artba07965/50-qubit
 <br>&nbsp;&nbsp;&nbsp;&nbsp;-quantum-computer-ibm. Accessed 31 Oct. 2022.
 <br><br>
 "Anupam Prakash: Quantum Recommendation Systems.” www.youtube.com,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;www.youtube.com/watch?v=fvERLz9Ux80&ab_channel=MicrosoftResearch.
 <br><br>
 Biamonte, Jacob, et al. “Quantum Machine Learning.” Nature, vol. 549, no. 7671,
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Sept. 2017, pp. 195–202, arxiv.org/pdf/1611.09347.pdf, 10.1038/nature23474.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Sept. 2017, pp. 195–202, arxiv.org/pdf/1611.09347.pdf, 10.1038/nature23474.
 <br><br>
 Bradben. “Azure Quantum Documentation, Qdk & Q# API Reference - Azure
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Quantum.” Azure Quantum Documentation, QDK & Q# API Reference - Azure
@@ -17,17 +17,17 @@ Bradben. “Azure Quantum Documentation, Qdk & Q# API Reference - Azure
 <br>&nbsp;&nbsp;&nbsp;&nbsp;en-us/azure/quantum/. 
 <br><br>
 Chow, Jerry, et al. “IBM Quantum breaks the 100-qubit processor barrier.” IBM
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Research, IBM, 16 Nov. 2021,
-<br>&nbsp;&nbsp;&nbsp;&nbsp; https://research.ibm.com/blog/127-qubit-quantum-processor-eagle. 
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Accessed 12 Oct. 2022. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Research, IBM, 16 Nov. 2021,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;https://research.ibm.com/blog/127-qubit-quantum-processor-eagle. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Accessed 12 Oct. 2022. 
 <br><br>
 Educative Answers Team. “What is the RSA algorithm?”  Educative.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;https://www.educative.io/answers/what-is-the-rsa-algorithm. 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Accessed 12 Oct. 2022. 
 <br><br>
 Goled, Shraddha. “Top Countries Pumping Money into Quantum Computing
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Technology.” Analytics India Magazine, 24 Aug. 2021, https://analyticsindiamag.com/
-<br>&nbsp;&nbsp;&nbsp;&nbsp; top-countries-pumping-money-into-quantum-computing-technology/. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Technology.” Analytics India Magazine, 24 Aug. 2021, https://analyticsindiamag.com/
+<br>&nbsp;&nbsp;&nbsp;&nbsp;top-countries-pumping-money-into-quantum-computing-technology/. 
 <br><br>
 Herman, Arthur. “Q-Day Is Coming Sooner Than We Think.” Forbes, 7 June 2021,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;https://www.forbes.com/sites/arthurherman/2021/06/07/q-day-
@@ -38,7 +38,7 @@ Holsman, Zabrel. “One-Nanometer Transistor Keeps Moore’s Law Relevant Anothe
 <br>&nbsp;&nbsp;&nbsp;&nbsp;/news/one-nanometer-transistor-keeps-moores-law-relevant-another-year.
 <br><br>
 “IBM Allow Free Access to Quantum Processor Online.” BBC News, 4 May 2016,
-<br>&nbsp;&nbsp;&nbsp;&nbsp; www.bbc.com/news/technology-36203043. Accessed 29 Oct. 2022.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;www.bbc.com/news/technology-36203043. Accessed 29 Oct. 2022.
 <br><br>
 Jordan, Stephen. Quantum Algorithm Zoo, https://quantumalgorithmzoo.org/.
 <br><br>
@@ -89,21 +89,21 @@ Xplore Full-Text PDF: 1 Dec. 2020, https://ieeexplore.ieee.org/stamp/stamp.jsp?
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Accessed 12 Oct. 2022.
 <br><br>
 “RSA Encryption: Definition, Architecture, Benefits & Use.” Okta,
-<br>&nbsp;&nbsp;&nbsp;&nbsp; https://www.okta.com/identity-101/rsa-encryption/. Accessed 12 Oct. 2022.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;https://www.okta.com/identity-101/rsa-encryption/. Accessed 12 Oct. 2022.
 <br><br>
 “Shor’s algorithm.” IBM Quantum, IBM,
-<br>&nbsp;&nbsp;&nbsp;&nbsp; https://quantum-computing.ibm.com/composer/docs/iqx/guide/
+<br>&nbsp;&nbsp;&nbsp;&nbsp;https://quantum-computing.ibm.com/composer/docs/iqx/guide/
 <br>&nbsp;&nbsp;&nbsp;&nbsp;shors-algorithm. Accessed 12 Oct. 2022.
 <br><br>
 “The Nobel Prize in Physics 2022.” NobelPrize.org,
-<br>&nbsp;&nbsp;&nbsp;&nbsp; www.nobelprize.org/prizes/physics/2022/press-release/.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;www.nobelprize.org/prizes/physics/2022/press-release/.
 <br><br>
 “The Story Behind Shor’s Algorithm | Peter Shor.” Youtube, uploaded by Quiskit, 14 Jan.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;2022, https://www.youtube.com/watch?v=dONacVnW1Ng. Accessed 12 Oct. 2022.
 <br><br>
 “Winners of the 2023 Breakthrough Prizes in Life Sciences, Mathematics and
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Fundamental Physics Announced.” Breakthrough Prize – Winners Of 
-<br>&nbsp;&nbsp;&nbsp;&nbsp; The 2023 Breakthrough Prizes In Life Sciences, Mathematics And 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Fundamental Physics Announced.” Breakthrough Prize – Winners Of 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The 2023 Breakthrough Prizes In Life Sciences, Mathematics And 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Fundamental Physics Announced, Breakthrough
 Foundation, 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;https://breakthroughprize.org/News/73. 
