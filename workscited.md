@@ -2,9 +2,8 @@
 ## Works Cited
 
 Ago, Artba07965in #science • 5 Years. “50-Qubit Quantum Computer IBM.” Steemit, 22
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Jan. 2018, 
-<br>&nbsp;&nbsp;&nbsp;&nbsp; https://steemit.com/science/@artba07965/50-qubit-quantum-computer-ibm.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Accessed 31 Oct. 2022.
+<br>&nbsp;&nbsp;&nbsp;&nbsp; Jan. 2018, https://steemit.com/science/@artba07965/50-qubit
+<br>&nbsp;&nbsp;&nbsp;&nbsp;-quantum-computer-ibm. Accessed 31 Oct. 2022.
 <br><br>
 "Anupam Prakash: Quantum Recommendation Systems.” www.youtube.com,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;www.youtube.com/watch?v=fvERLz9Ux80&ab_channel=MicrosoftResearch.
