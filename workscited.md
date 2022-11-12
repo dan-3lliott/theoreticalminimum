@@ -19,7 +19,7 @@ Bradben. “Azure Quantum Documentation, Qdk & Q# API Reference - Azure
 Chow, Jerry, et al. “IBM Quantum breaks the 100-qubit processor barrier.” IBM
 <br>&nbsp;&nbsp;&nbsp;&nbsp; Research, IBM, 16 Nov. 2021,
 <br>&nbsp;&nbsp;&nbsp;&nbsp; https://research.ibm.com/blog/127-qubit-quantum-processor-eagle. 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Accessed 12 Oct. 2022. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp; Accessed 12 Oct. 2022. 
 <br><br>
 Educative Answers Team. “What is the RSA algorithm?”  Educative.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;https://www.educative.io/answers/what-is-the-rsa-algorithm. 
@@ -46,8 +46,8 @@ Khan, Tariq Q., and Antonio Robles-Kelly. “Machine Learning: Quantum vs Classi
 <br>&nbsp;&nbsp;&nbsp;&nbsp;IEEE
 <br><br>
 Lee, Jane Lanhee. “Atom Computing to Invest $100 Mln in Colorado for Quantum
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Computer Center.” Reuters, 28 Sept. 2022, www.reuters.com/technology/atom-computing-
-<br>&nbsp;&nbsp;&nbsp;&nbsp;invest-100-mln-colorado-quantum-computer-center-2022-09-28/. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Computer Center.” Reuters, 28 Sept. 2022, www.reuters.com/technology/atom
+<br>&nbsp;&nbsp;&nbsp;&nbsp;-computing-invest-100-mln-colorado-quantum-computer-center-2022-09-28/. 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Accessed 29 Oct. 2022.
 <br><br>
 Moss, Sebastian. “Cooling Quantum Computers.” All Content RSS, Data Center
@@ -67,8 +67,8 @@ Shor, Peter. “Peter Shor.” MIT Mathematics, MIT, https://math.mit.edu/~shor/
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Accessed 12 Oct. 2022.
 <br><br>
 Tang, Ewin. “A Quantum-Inspired Classical Algorithm for Recommendation Systems:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the 51st Annual ACM SIGACT Symposium on Theory
-<br>&nbsp;&nbsp;&nbsp;&nbsp;of Computing.” ACM Conferences, 1 June 2019,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Computing.” ACM Conferences, 1 June 2019,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;https://dl.acm.org/doi/10.1145/3313276.3316310. 
 <br><br>
 The Jupyter Book Community. “Shor’s Algorithm.” Qiskit,
@@ -92,8 +92,8 @@ Xplore Full-Text PDF: 1 Dec. 2020, https://ieeexplore.ieee.org/stamp/stamp.jsp?
 <br>&nbsp;&nbsp;&nbsp;&nbsp; https://www.okta.com/identity-101/rsa-encryption/. Accessed 12 Oct. 2022.
 <br><br>
 “Shor’s algorithm.” IBM Quantum, IBM,
-<br>&nbsp;&nbsp;&nbsp;&nbsp; https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm.
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Accessed 12 Oct. 2022.
+<br>&nbsp;&nbsp;&nbsp;&nbsp; https://quantum-computing.ibm.com/composer/docs/iqx/guide/
+<br>&nbsp;&nbsp;&nbsp;&nbsp;shors-algorithm. Accessed 12 Oct. 2022.
 <br><br>
 “The Nobel Prize in Physics 2022.” NobelPrize.org,
 <br>&nbsp;&nbsp;&nbsp;&nbsp; www.nobelprize.org/prizes/physics/2022/press-release/.
@@ -105,4 +105,5 @@ Xplore Full-Text PDF: 1 Dec. 2020, https://ieeexplore.ieee.org/stamp/stamp.jsp?
 <br>&nbsp;&nbsp;&nbsp;&nbsp; Fundamental Physics Announced.” Breakthrough Prize – Winners Of 
 <br>&nbsp;&nbsp;&nbsp;&nbsp; The 2023 Breakthrough Prizes In Life Sciences, Mathematics And 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Fundamental Physics Announced, Breakthrough
-Foundation, https://breakthroughprize.org/News/73. 
+Foundation, 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;https://breakthroughprize.org/News/73. 
