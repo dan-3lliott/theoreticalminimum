@@ -1,6 +1,3 @@
-
-## Works Cited
-
 Ago, Artba07965in #science • 5 Years. “50-Qubit Quantum Computer IBM.” Steemit, 22
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Jan. 2018, https://steemit.com/science/@artba07965/50-qubit
 <br>&nbsp;&nbsp;&nbsp;&nbsp;-quantum-computer-ibm. Accessed 31 Oct. 2022.
