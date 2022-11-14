@@ -1,5 +1,7 @@
 # Glossary
 
+![Quantum Computer](assets/img/quantum-computer2.png)
+
 ## Decoherence
 The loss of quantum information of a qubit to its environment. This is characterized in a quantum computer by the decoherence time. The longer a qubit's decoherence time, the longer it is able to preserve its quantum information and therefore have quantum operations performed on it. 
 ## Qubit
