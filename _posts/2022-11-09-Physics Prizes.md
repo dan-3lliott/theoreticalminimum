@@ -2,7 +2,7 @@
 layout: post
 title: Prizes Recognize Quantum Computing Pioneers
 subtitle: By DLG
-cover-img: /assets/img/path.jpg
+cover-img: assets/img/nobel-prize-physics-2022.webp
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
