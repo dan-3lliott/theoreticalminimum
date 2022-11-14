@@ -15,7 +15,7 @@ Secondly, quantum computers suffer from a unique issue known as quantum decohere
 
 Thirdly, quantum computers require a very specific set of physical conditions to run properly, particularly when it comes to the range of temperatures within which they must operate. For example, superconducting quantum computer chips (such as those currently being used in research by organizations such as Google, IBM, and the like) must be kept as close to absolute zero (−273.15 °C, −459.67 °F) as possible; otherwise, noise, decoherence, and error will abound as a result of the thermal energy being introduced into the system. 
 
-![Vacuum-based cooling system currently in use by Atom Computing, a quantum computing company based in Berkeley, CA. (Lee)(/assets/img/atomcomputing.jpg)
+![Vacuum-based cooling system currently in use by Atom Computing, a quantum computing company based in Berkeley, CA.](/assets/img/atomcomputing.jpg)
 
 Vacuum-based cooling system currently in use by Atom Computing, a quantum computing company based in Berkeley, CA. [(Lee)](www.reuters.com/technology/atom-computing-invest-100-mln-colorado-quantum-computer-center-2022-09-28/)
 
