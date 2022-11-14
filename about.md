@@ -12,3 +12,6 @@ TTM specializes in simplicity. Though quantum computing is a technical topic, it
 </ul>
 
 INSERT TIMELINE HERE
+<img src="ttm-timeline.PNG"
+     alt="TTM Timeline"
+     style="float: left; margin-right: 10px;" />
