@@ -4,8 +4,6 @@ title: About The Theoretical Minimum
 subtitle: A Weekly Technological Newspaper Focused on Quantum Computing
 ---
 **Why create TTM?**
-![Quantum Computer](/assets/img/quantum-computer2.png "Quantum Computer")
-
 <ul>
 The Theoretical Minimum (TTM), seeks to remedy the widespread ignorance regarding quantum computing. Each update will contain a variety of rticles, such as recent news, foundational knowledge, history and past developments, applications, and limitations as well as an interactive section designed to reinforce learning or show examples of real-world quantum computing. 
 </ul>
