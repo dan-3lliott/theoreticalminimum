@@ -12,5 +12,5 @@ TTM specializes in simplicity. Though quantum computing is a technical topic, it
 </ul>
 
 NOT FINAL
-![Research Timeline](/assets/img/ttm-timeline.PNG "Research Timeline")
+![Research Timeline](/assets/img/ttm-timeline.PNG)
 
