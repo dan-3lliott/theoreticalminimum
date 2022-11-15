@@ -2,9 +2,9 @@
 layout: post
 title: Applications Of Quantum Computing
 subtitle: By Demi Lei
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: assets/img/Screen Shot 2022-11-11 at 8.19.49 PM.png
+thumbnail-img: assets/img/QML_diagram.png
+share-img: assets/img/QML_diagram.png
 ---
 **Why is Quantum Computing Important?**
 <ul>
