@@ -15,6 +15,8 @@ Bradben. “Azure Quantum Documentation, Qdk & Q# API Reference - Azure
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Quantum | Microsoft Learn, 2022, https://learn.microsoft.com/en-us/
 <br>&nbsp;&nbsp;&nbsp;&nbsp;azure/quantum/. 
 <br><br>
+“Breaking cryptography records.” ScienceNode, 14 Oct. 2020, sciencenode.org/feature/Cryptographic%20key.php. Accessed 14 Nov. 2022.
+<br><br>
 Chow, Jerry, et al. “IBM Quantum breaks the 100-qubit processor barrier.” IBM
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Research, IBM, 16 Nov. 2021, https://research.ibm.com/blog/127-qubit
 <br>&nbsp;&nbsp;&nbsp;&nbsp;-quantum-processor-eagle. 
@@ -59,6 +61,8 @@ ODay, Rebecca. “Quantum Computing Cooling | Advanced Thermal Solutions.” The
 <br><br>
 Prakash, Anupam. “Anupam Prakash: Quantum Recommendation Systems.” YouTube,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Research, 31 Jan. 2017,
+<br><br>
+Press, Gil. “27 Milestones In The History Of Quantum Computing.” Forbes, 18 May 2021, www.forbes.com/sites/gilpress/2021/05/18/27-<br>&nbsp;&nbsp;&nbsp;&nbsp;milestones-in-the-history-of-quantum-computing/?sh=14aaf02e7b23. Accessed 14 Nov. 2022.
 <br><br>
 Shor, Peter. “Papers Available Electronically.” MIT Mathematics, MIT,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;https://math.mit.edu/~shor/elecpubs.html. Accessed 12 Oct. 2022.
