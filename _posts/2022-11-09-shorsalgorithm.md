@@ -2,7 +2,7 @@
 layout: post
 title: A Brief History of Shor's Algorithm
 subtitle: By Sarah Heyrman
-cover-img: /assets/img/shoralg.png
+cover-img: /assets/img/cryptography.jpg
 thumbnail-img: /assets/img/pic2.jpg
 share-img: /assets/img/cryptography.jpg
 ---
