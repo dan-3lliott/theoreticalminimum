@@ -10,11 +10,10 @@ share-img: assets/img/QML_diagram.png
 <ul>
 As things around us become increasingly digitized, the amount of data generated each day increases. Currently, we generate about 2.5 exabytes of data daily. On the other hand, our processing power on classical computers is predicted to be unable to keep up with the increasing quantities of data. Although Moore's Law predicted a doubling in computing capacity every two years, the increase in the computing capacity and speed of classical chips is inevitably slowing down as transistors approach the size of a silicon atom where problems such as quantum tunneling begin to arise. To keep up with Moore’s Law and be able to process the enormous amount of data generated every day, we will need a new solution that doesn’t require making transistors smaller and smaller; therefore, quantum computers (QC) are necessary for future development in technology. 
 </ul>
+
 <br>
-<ul>
-[![Moore’s Law](https://raw.githubusercontent.com/dan-3lliott/theoreticalminimum/master/assets/img/moores_law.png)](https://dan-3lliott.github.io/theoreticalminimum/2022-11-09-applications/)
-<br>Moore’s Law
-</ul> 
+[![Moore’s Law](https://raw.githubusercontent.com/dan-3lliott/theoreticalminimum/master/assets/img/Moore's_Law_Transistor_Count_1970-2020.png)](https://en.wikipedia.org/wiki/Moore%27s_law)
+Moore’s Law
 <br>
 
 **Why is Quantum Computing Powerful?**
