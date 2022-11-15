@@ -11,6 +11,5 @@ The Theoretical Minimum (TTM), seeks to remedy the widespread ignorance regardin
 TTM specializes in simplicity. Though quantum computing is a technical topic, it should not be kept shrouded in an aura of complexity. Quantum savvy people everywhere must simplify the complexities of quantum computing, for only then can it be universally understood and accepted. TTM aims to do just that by teaching the basics of quantum computing while keeping up-to-date with the rapidly evolving field. Some readers may go on to further educate themselves; some may not. In the end, however, quantum computing will be one step closer to being demystified. 
 </ul>
 
-NOT FINAL
-![Research Timeline](/assets/img/ttm-timeline.PNG)
+![Research Timeline](/assets/img/ttm-timeline.png)
 
