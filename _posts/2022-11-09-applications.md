@@ -11,8 +11,10 @@ share-img: assets/img/QML_diagram.png
 As things around us become increasingly digitized, the amount of data generated each day increases. Currently, we generate about 2.5 exabytes of data daily. On the other hand, our processing power on classical computers is predicted to be unable to keep up with the increasing quantities of data. Although Moore's Law predicted a doubling in computing capacity every two years, the increase in the computing capacity and speed of classical chips is inevitably slowing down as transistors approach the size of a silicon atom where problems such as quantum tunneling begin to arise. To keep up with Moore’s Law and be able to process the enormous amount of data generated every day, we will need a new solution that doesn’t require making transistors smaller and smaller; therefore, quantum computers (QC) are necessary for future development in technology. 
 </ul>
 <br>
+<ul>
 [![Moore’s Law](https://raw.githubusercontent.com/dan-3lliott/theoreticalminimum/master/assets/img/moores_law.png)](https://dan-3lliott.github.io/theoreticalminimum/2022-11-09-applications/)
 <br>Moore’s Law
+</ul> 
 <br>
 
 **Why is Quantum Computing Powerful?**
@@ -23,7 +25,7 @@ Although QC is still at an early stage of development and they are not precise e
 <br>
 [![Classical Bit vs. Quantum Bit, or Qubit](https://raw.githubusercontent.com/dan-3lliott/theoreticalminimum/master/assets/img/bit_vs_qubit.jpeg)](https://news.fnal.gov/2021/04/new-computing-algorithms-expand-the-boundaries-of-a-quantum-future/)
 Classical Bit vs. Quantum Bit, or Qubit
-<br>
+<br><br>
 
 <ul>
 Overall, classical computers are better at training models that are supervised in training, discriminative, deterministic, and parallelizable, due to their discrete nature. However, for QC, since a qubit can be in an infinite and continuous number of states, it has the ability to evaluate multiple states and compute multiple operations at the same time. Hence, QC has significant advantages over classical computers when dealing with unsupervised, generative, and probabilistic machine learning algorithms - algorithms that are difficult to compute on a GPU.
