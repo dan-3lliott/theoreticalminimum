@@ -4,7 +4,7 @@ title: A Brief History of Shor's Algorithm
 subtitle: By Sarah Heyrman
 cover-img: /assets/img/shoralg.png
 thumbnail-img: /assets/img/pic2.jpg
-share-img: /assets/img/shoralg.png
+share-img: /assets/img/cryptography.jpg
 ---
 
 **Who is Peter Shor?**
