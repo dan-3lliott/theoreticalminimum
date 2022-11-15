@@ -12,7 +12,7 @@ As things around us become increasingly digitized, the amount of data generated 
 </ul>
 <br>
 [![Moore’s Law](https://raw.githubusercontent.com/dan-3lliott/theoreticalminimum/master/assets/img/moores_law.png)](https://dan-3lliott.github.io/theoreticalminimum/2022-11-09-applications/)
-Moore’s Law
+<br>Moore’s Law
 <br>
 
 **Why is Quantum Computing Powerful?**
