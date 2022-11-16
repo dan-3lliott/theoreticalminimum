@@ -54,7 +54,8 @@ developed the quantum teleportation algorithm,
 whereby the quantum information of one qubit can be
 transported to another one using entangled states.
 
-[![Clauser Experiment](https://raw.githubusercontent.com/dan-3lliott/theoreticalminimum/master/assets/img/JohnClauserEntanglementExperiment.png)](https://www.reuters.com/technology/atom-computing-invest-100-mln-colorado-quantum-computer-center-2022-09-28/)
+[![Clauser Experiment](https://raw.githubusercontent.com/dan-3lliott/theoreticalminimum/master/assets/img/JohnClauserEntanglementExperiment.png)](https://www.caltech.edu/about/news/proving-that-quantum-entanglement-is-real)
+
 John Clauser With his original entanglement experiment
 
 Speaking of entanglement, the 2022 Nobel Prize was
