@@ -55,6 +55,7 @@ whereby the quantum information of one qubit can be
 transported to another one using entangled states.
 
 ![Clauser Experiment](/assets/img/JohnClauserEntanglementExperiment.png)
+
 Speaking of entanglement, the 2022 Nobel Prize was
 awarded precisely for experiments relating to it.
 Specifically, the prize was given “for experiments with
