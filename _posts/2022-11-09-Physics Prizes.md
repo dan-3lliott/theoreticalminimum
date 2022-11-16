@@ -40,11 +40,10 @@ algorithms. The Deutsch-Jozsa algorithm that he and
 Richard Jozsa developed, was one of the first quantum
 algorithms that was demonstrated to have an
 exponential speed up over classical ones. He also
-formulated the concept of a Quantum Turing machine,
-an abstract model that describes the behavior of an
-arbitrary quantum computer along with helping
+formulated the concept of a Quantum Turing machine along with helping
 develop quantum key distribution.
-Quantum key distribution is one of the most influential
+
+  Quantum key distribution is one of the most influential
 breakthroughs in the field of quantum information
 science, and stands to change the way we encrypt our
 data. Charlie Bennett and Gilles Brassard discovered the
@@ -54,6 +53,8 @@ quantum cryptography schemes. Gilles and Bennett also
 developed the quantum teleportation algorithm,
 whereby the quantum information of one qubit can be
 transported to another one using entangled states.
+
+
 Speaking of entanglement, the 2022 Nobel Prize was
 awarded precisely for experiments relating to it.
 Specifically, the prize was given “for experiments with
@@ -73,8 +74,9 @@ inequality, thus showing that quantum mechanics is not
 governed by hidden variables. Further experiments
 were then performed by Alain Aspect in 1982 to close
 loopholes potentially allowed by the original
-experimental set ups. These set of experiments showed
-with increasing rigor that quantum mechanics cannot be
+experimental set ups that could allow for hidden variable explanations of quantum mechanics.
+These set of experiments showed with increasing rigor 
+that quantum mechanics cannot be
 explained by local hidden variables and that behaviors
 such as entanglement are inherently non local. These
 experiments were then improved and expanded upon
