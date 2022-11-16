@@ -54,8 +54,11 @@ developed the quantum teleportation algorithm,
 whereby the quantum information of one qubit can be
 transported to another one using entangled states.
 
-![Clauser Experiment](/assets/img/JohnClauserEntanglementExperiment.png)
 
+<br>
+[![Clauser Experiment](/assets/img/JohnClauserEntanglementExperiment.png)]
+John Clauser With His Original Entanglement Experiment
+<br><br>
 Speaking of entanglement, the 2022 Nobel Prize was
 awarded precisely for experiments relating to it.
 Specifically, the prize was given “for experiments with
