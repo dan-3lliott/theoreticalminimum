@@ -27,4 +27,4 @@ A procedure in which errors in the quantum information of a qubit are corrected.
 An abstract model for quantum computation. Like a classical turing machine, any arbitrary quantum computation can be represented by a quantum turing machine. However, quantum circuits are used more often in practice for describing the implementation of a quantum algorithm on a quantum computer. 
 ## Quantum Circuit
 A pictographic way of representing a quantum algorithm. Each rail represents a qubit and any operations performed on the qubit are placed along the line as labeled squares. Entangling operations such as multi qubit gates involve lines between qubits. 
-
+![Quantum Circuit](/assets/img/ExampleQcircuit.png)
