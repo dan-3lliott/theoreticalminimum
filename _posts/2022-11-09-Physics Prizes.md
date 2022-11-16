@@ -56,7 +56,7 @@ transported to another one using entangled states.
 
 
 <br>
-![Clauser Experiment](https://github.com/dan-3lliott/theoreticalminimum/blob/master/assets/img/JohnClauserEntanglementExperiment.png)
+![Clauser Experiment](https://dan-3lliott.github.io/theoreticalminimum/JohnClauserEntanglementExperiment.png)
 John Clauser With His Original Entanglement Experiment
 <br><br>
 Speaking of entanglement, the 2022 Nobel Prize was
