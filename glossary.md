@@ -28,3 +28,9 @@ An abstract model for quantum computation. Like a classical turing machine, any 
 ## Quantum Circuit
 A pictographic way of representing a quantum algorithm. Each horizontal line represents a qubit and any operations performed on the single qubit are placed along the line as labeled squares. Entangling operations such as multi qubit gates involve vertical lines between qubits. 
 ![Quantum Circuit](/assets/img/ExampleQcircuit.png)
+
+## Bloch Sphere
+A sphere used in visually representing the state of a qubit. The qubit's state represents a vector pointing in a certain direction on the sphere. Any quantum operations on a single qubit can be represented as a series of rotations of the vector along the sphere. 
+
+## Bell's Inequalities
+A series of mathematical inequalities written by John Bell that give bounds on whether quantum mechanics can be described by a local hidden variables theory. That is can it be described by a non probabilistic theory that locally influences the quantum system. A violation of these inequalities show's that quantum mechanics cannot be described by hidden variables and therefore is a fundamentally nonlocal and probabilistic theory.
