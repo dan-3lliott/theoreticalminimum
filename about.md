@@ -13,7 +13,7 @@ TTM specializes in simplicity. Though quantum computing is a technical topic, it
 
 **Why is TTM needed at Georgia Tech?**
 
-[![The Theoretical Minimum - Audiovisual Component](https://img.youtube.com/vi/rQyKY60kkMI)]
+[![The Theoretical Minimum - Audiovisual Component](https://img.youtube.com/vi/rQyKY60kkMI/0.jpg)](https://www.youtube.com/watch?v=rQyKY60kkMI)
 
 Georgia Tech students are some of the most technically competent problem solvers in the nation. However, they often lack the breadth of knowledge needed to keep up with certain new technological developments, such as quantum computing, that will eventually become important to understand. Quantum computing is poised to fundamentally change the way in which we do computation; it will revolutionize the way in which many important processes are carried out, from drug development to optimization. This monthly periodical, The Theoretical Minimum, seeks to remedy the widespread ignorance among Tech students with regard to this novel technology. Each issue of the periodical will contain a variety of quantum computing-related articles, such as recent news, foundational knowledge, history and past developments, applications, and limitations as well as an interactive section. The interactive section will contain interesting problems and exercises (e.g. crosswords, quizzes) designed to reinforce learning or show examples of real-world quantum computing. 
 
