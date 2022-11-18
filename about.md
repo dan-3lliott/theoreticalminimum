@@ -26,4 +26,4 @@ This begs the question, are students here at Georgia Tech being exposed to the c
 
 **Timeline of key events in the history of Quantum Computing**
 
-![Research Timeline](/assets/img/ttm-timeline.png)
+![Research Timeline](/assets/img/The_Theoretical_Minimum.png)
