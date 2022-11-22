@@ -4,3 +4,4 @@ This is a game designed to allow users to understand how qubits lose their quant
 
 ![PlaceHolder](/assets/img/BlochSphere.png)
 
+I am currently programming the game however it is taking longer than expected. I will put any interesting relevant animations I have in here until I can get an operational game - DLG
