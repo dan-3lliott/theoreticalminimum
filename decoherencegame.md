@@ -9,5 +9,5 @@ I am currently programming the game however it is taking longer than expected an
 ![XXGIF](assets/img/xx_gate.gif)
 
 
-![This](https://bits-and-electrons.github.io/bloch-sphere-simulator/) is a web based bloch sphere plotter that allows you to visualize how different quantum operations affect the state of a qubit. While it doesn't include decoherence, it will allow you to see the different ideal operations that a quantum computer could perform on a qubit. 
+[This](https://bits-and-electrons.github.io/bloch-sphere-simulator/) is a web based bloch sphere plotter that allows you to visualize how different quantum operations affect the state of a qubit. While it doesn't include decoherence, it will allow you to see the different ideal operations that a quantum computer could perform on a qubit. 
 
